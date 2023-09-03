@@ -23,12 +23,12 @@ const svgSecurity = document.getElementById('svgsecurity');
 
 new Cleave (cardnumber, {
   creditCard: true,
-})
+});
 
 new Cleave (expirationdate, {
   date: true,
   datePattern: ['m', 'y']
-})
+});
 // данные для определения типа карты
 // для вставки логотипа и иконки уже полученны элементы выше ccicon и cclogo
 
@@ -172,4 +172,3 @@ securitycode.addEventListener('input', (e) => {
   securitycode.value = securitycode.value.replace(/.{4,}/g, '');
   svgSecurity.textContent = securitycode.value;
 });
-
