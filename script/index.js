@@ -173,3 +173,4 @@ securitycode.addEventListener('input', (e) => {
   svgSecurity.textContent = securitycode.value;
 });
 
+ .
