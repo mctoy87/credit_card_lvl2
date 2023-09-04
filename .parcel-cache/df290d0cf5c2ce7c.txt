@@ -16,10 +16,10 @@
 126D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\dist\addons\cleave-phone.mm.js133381404587396270 0
 80D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\.vscode133380569256493339 1
 117D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\build\license.txt133381404608554408 0
-88D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\script\index.js133382357859815396 0
+88D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\script\index.js133383316443877983 0
 118D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\dist\cleave-esm.min.js133381404592475016 0
 126D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\dist\addons\cleave-phone.jp.js133381404585507536 0
-83D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\.gitignore133382359300657705 0
+83D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\.gitignore133383316274212834 0
 133D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\addons\phone-type-formatter.cz.js133381404595573910 0
 86D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\getElement.js133381360931842999 0
 105D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\build133381404608544397 1
@@ -29,7 +29,7 @@
 78D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\.idea133380569256303299 1
 126D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\dist\addons\cleave-phone.gf.js133381404583227220 0
 106D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\addons133381404608534400 1
-77D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\dist133382361500610485 1
+77D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\dist133382363706877686 1
 133D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\addons\phone-type-formatter.ps.js133381404604299784 0
 107D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\dist\addons133381404591505532 1
 115D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\redom\.github\CONTRIBUTING.md133381394187732610 0
@@ -40,7 +40,7 @@
 133D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\addons\phone-type-formatter.gp.js133381404597363010 0
 103D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\redom\.travis.yml133381394187762133 0
 104D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\redom\esm\index.js133381394187555363 0
-79D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\script133381399159840877 1
+79D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\script133383316176977573 1
 103D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\redom\esm\util.js133381394187702606 0
 115D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\cleave.js\src\Cleave.react.js133381404608578165 0
 103D:\Users\Andrei_Kotelnikov\Documents\vscode\module_6_11\credit-card-2lvl\node_modules\redom\esm\list.js133381394187565373 0
